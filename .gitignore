@@ -66,5 +66,8 @@ arduino/Libraries/
 arduino/file_arduino_download/
 arduino/libraries/%
 
-.gitignore
-**.xlsx**
+# Ignore all .xlsx files
+*.xlsx
+
+# Ignore the specific lock file
+.~lock.final.xlsx#
