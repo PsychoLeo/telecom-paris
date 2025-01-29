@@ -1,0 +1,8 @@
+L'objectif de ce TP est d'implémenter les structures de données vues en cours. Comme tout le monde ne parle pas des langages fonctionnels, nous allons utiliser Python. Attention Python n'est pas un langage fonctionnel vous devez donc bien comprendre ce que fait votre code et ne jamais modifier des données déjà créées !
+
+L'ordre de travail conseillé est le suivant :
+
+    commencer par remplir le fichier FunList pour implémenter une structure de liste façon fonctionnelle
+    tester votre programme, notamment avec le fichier test_FunList.py. Pour cela, il faut d'abord installer pytest puis appeler pytest test_FunList.py (pytest sans argument teste tous les fichiers test_*.py)
+    ensuite faire la même chose avec FunQueue, on commencera par implémenter la double pile, avant de passer à la quadruple pile. À moins d'avoir fini le reste du TP, il est déconseillé de faire la file temps réel !
+    enfin remplir FunBinTree puis FunBinHeap

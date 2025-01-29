@@ -1,0 +1,24 @@
+[dumpfile] "/home/leo/Bureau/1A_telecom/informatique/inf107/td-logisim/edge/vcd/edgedetect.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@800200
+-Implementation
+@28
+[color] 0
+circ.clk
+[color] 0
+circ.D
+[color] 1
+circ.TOP
+@1000200
+-Implementation
+@800200
+-Specification
+@28
+[color] 3
+spec.clk
+[color] 3
+spec.D
+[color] 1
+spec.TOP
+@1000200
+-Specification

@@ -1,0 +1,8 @@
+L'objectif de ce TP est d'implémenter les structures de données vues en cours. Comme tout le monde ne parle pas des langages fonctionnels, le langage proposé avec un template est Python mais vous êtes libre d'utiliser un langage comme OCaml pour l'implémentation.
+
+L'ordre de travail conseillé est le suivant :
+
+    commencer par remplir le fichier FunBinSkewTree pour implémenter une structure d'arbre binomial penché
+    continuer avec FunBinSkewHeap puis tester votre code
+    tester votre tas binomial penché
+    faites ensuite le tas de Brodal Okasaki

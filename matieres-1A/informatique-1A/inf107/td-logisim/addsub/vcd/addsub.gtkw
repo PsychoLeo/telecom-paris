@@ -1,0 +1,32 @@
+[dumpfile] "/home/leo/Bureau/1A_telecom/informatique/inf107/td-logisim/addsub/vcd/addsub.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@800200
+-Implementation
+@424
+[color] 0
+circ.A
+[color] 0
+circ.B
+@28
+[color] 0
+circ.sub
+@424
+[color] 0
+circ.Y
+@1000200
+-Implementation
+@800200
+-Specification
+@424
+[color] 3
+spec.A
+[color] 3
+spec.B
+@28
+[color] 3
+spec.sub
+@424
+[color] 3
+spec.Y
+@1000200
+-Specification

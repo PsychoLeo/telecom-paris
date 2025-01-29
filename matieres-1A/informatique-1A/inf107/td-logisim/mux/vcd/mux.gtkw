@@ -1,0 +1,28 @@
+[dumpfile] "/home/leo/Bureau/1A_telecom/informatique/inf107/td-logisim/mux/vcd/mux.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@800200
+-Implementation
+@28
+[color] 0
+circ.DIN0
+[color] 0
+circ.DIN1
+[color] 0
+circ.Sel
+[color] 1
+circ.DOUT
+@1000200
+-Implementation
+@800200
+-Specification
+@28
+[color] 3
+spec.DIN0
+[color] 3
+spec.DIN1
+[color] 3
+spec.Sel
+[color] 1
+spec.DOUT
+@1000200
+-Specification

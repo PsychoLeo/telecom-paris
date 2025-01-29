@@ -1,0 +1,78 @@
+[dumpfile] "/home/leo/Bureau/telecom/informatique/inf107/tp-riscv/riscv/vcd/test-r2r.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@800200
+-Implementation
+@28
+[color] 2
+circ.clk
+[color] 0
+circ.reset
+@24
+[color] 0
+circ.pc
+@26
+[color] 0
+circ.I
+@24
+[color] 0
+circ.rd
+[color] 0
+circ.rs1
+[color] 0
+circ.rs2
+@28
+[color] 0
+circ.write
+[color] 0
+circ.ALUsrc
+@424
+[color] 0
+circ.Op1
+[color] 0
+circ.Op2
+@24
+[color] 5
+circ.op
+@424
+[color] 0
+circ.Res
+@1000200
+-Implementation
+@800200
+-Specification
+@28
+[color] 2
+spec.clk
+[color] 3
+spec.reset
+@24
+[color] 3
+spec.pc
+@26
+[color] 3
+spec.I
+@24
+[color] 3
+spec.rd
+[color] 3
+spec.rs1
+[color] 3
+spec.rs2
+@28
+[color] 3
+spec.write
+[color] 3
+spec.ALUsrc
+@424
+[color] 3
+spec.Op1
+[color] 3
+spec.Op2
+@24
+[color] 5
+spec.op
+@424
+[color] 3
+spec.Res
+@1000200
+-Specification

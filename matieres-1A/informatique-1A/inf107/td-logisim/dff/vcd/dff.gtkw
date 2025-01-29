@@ -1,0 +1,32 @@
+[dumpfile] "/home/leo/Bureau/1A_telecom/informatique/inf107/td-logisim/dff/vcd/dff.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@800200
+-Implementation
+@28
+[color] 2
+circ.clk
+[color] 0
+circ.reset
+[color] 0
+circ.en
+[color] 0
+circ.D
+[color] 0
+circ.Q
+@1000200
+-Implementation
+@800200
+-Specification
+@28
+[color] 2
+spec.clk
+[color] 3
+spec.reset
+[color] 3
+spec.en
+[color] 3
+spec.D
+[color] 3
+spec.Q
+@1000200
+-Specification

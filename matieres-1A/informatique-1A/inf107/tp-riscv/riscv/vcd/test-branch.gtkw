@@ -1,0 +1,44 @@
+[dumpfile] "/home/leo/Bureau/telecom/informatique/inf107/tp-riscv/riscv/vcd/test-branch.vcd"
+*-2.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@28
+[color] 2
+circ.clk
+[color] 0
+circ.reset
+@24
+[color] 0
+circ.pc
+@26
+[color] 0
+circ.I
+@24
+[color] 0
+circ.rd
+[color] 0
+circ.rs1
+[color] 0
+circ.rs2
+@28
+[color] 0
+circ.write
+[color] 0
+circ.ALUsrc
+[color] 0
+circ.load
+[color] 0
+circ.store
+[color] 0
+circ.branch
+[color] 0
+circ.taken
+@424
+[color] 0
+circ.Op1
+[color] 0
+circ.Op2
+@24
+[color] 5
+circ.op
+@26
+[color] 0
+circ.Res

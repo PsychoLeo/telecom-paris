@@ -1,0 +1,25 @@
+1. Enumerate nodes with dfs (recursive)
+Delay = O(n) because of recursive calls
+Incremental(n, i) : O(i) because we will have visited i nodes
+Total(n, m) : O(m) (m number of neighbors of departure node)
+
+2. Enumerate nodes with dfs (iterative)
+Delay = O(max(deg[v])) = O(n) where v is one of the neighbors of the initial node
+Incremental(n, i) : O(n)
+Total(n, m) : O(m)
+
+4. Enumerate leaves with dfs (recursive)
+Delay = O(n) because there might be a division in the path at the beginning
+Incremental(n, i) : O(n) because the graph can be vertical (i=1 would give n iterations)
+Total (n, m) : O(n) (same argument of verticality) or O(n+m)
+
+6. Enumerate leaves with dfs (iterative)
+Delay = O(n)
+Incremental(n, i) : O(n)
+Total(n, m) : O(n)
+
+7. cf. Collection.py
+8. cf. Collection.py
+
+9. 
+
