@@ -65,3 +65,6 @@ arduino/.fr-*
 arduino/Libraries/
 arduino/file_arduino_download/
 arduino/libraries/%
+
+.gitignore
+**.xlsx**
