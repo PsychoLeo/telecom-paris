@@ -10,7 +10,7 @@
 
 Hello, my name is Léopold and I am currently (2025) a student at Telecom Paris. I follow the MITRO (theoretical computer science) and ACCQ (applied algebra) courses. 
 
-This repository contains the computer science work I did during my scholarship in Télécom Paris (not everything I did, but everything involving personnal work), and the presentations I did as the president of the competitive programming association in 2024/2025.
+This repository contains the computer science work I did during my scholarship in Télécom Paris (not everything I did, but everything involving personnal work), and the presentations I did as the president of the competitive programming association in 2024/2025. Please note that a lot of folders are ignored since they contain courses (slides, past exams, exercices...) and are therefore not relevant.
 
 ## Structure 
 

@@ -20,13 +20,19 @@ matieres-1A/informatique-1A/inf107/
 matieres-1A/physique-1A/
 accq/coding-theory/
 accq/information-theory/
+accq/cryptographie/
+accq/quantique/
+accq/courbes-algebriques/
 matieres-1A/informatique-1A/res101/
 mitro/algorithmique-avancee/
 mitro/complexite/
 mitro/topologie-combinatoire/
+mitro/logique-theorie-preuve/
+mitro/optimisation-analyse-combinatoire/
 crd/
 autres/
 anglais/
+
 
 
 # Ignore compiled binaries and libraries
